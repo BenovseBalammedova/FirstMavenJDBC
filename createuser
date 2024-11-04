@@ -1,0 +1,2 @@
+Student{User{id=12, fullName='Benovse', age=22, email='benovse', phoneNumber='23232342'}major='jsjasjja', gpa=80.5, coursYear=ONE} 
+Student{User{id=12, fullName='Benovse', age=22, email='benovse', phoneNumber='23232342'}major='jsjasjja', gpa=3.5, coursYear=ONE} 
